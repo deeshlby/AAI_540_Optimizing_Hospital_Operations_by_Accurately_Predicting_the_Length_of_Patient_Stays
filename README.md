@@ -27,3 +27,5 @@ The project does not aim to develop a system for clinical decision-making regard
 Real-time deployment of the model is not the current focus, though it may be explored in future iterations.
 No integration with existing hospital management software systems during the initial project phase.
 The project will not attempt to address broader healthcare policy or financial decisions related to hospital management.
+
+![image](https://github.com/user-attachments/assets/c12e3d5b-493f-478f-ad97-0573a1f51bed)
